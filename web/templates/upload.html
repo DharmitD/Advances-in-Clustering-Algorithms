@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	
+<title>upload</title>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+	
+<script type="text/javascript">
+		
+function showApplyAlgo() {
+			
+$("#showApplyAlgoBtn").css({"display":"block"});
+
+</script>
+	
+<style >
+
+h1 {
+    text-align: center;
+}		
+	
+</style>
+
+<body bgcolor="Yellow">
+</head>
+
+<body>
+  
+<form action="processFile" method = "POST" 
+         enctype = "multipart/form-data">
+
+
+<table>
+	
+<tbody>
+		
+<tr>
+			
+<td><input type="file" name="dataset1"></td>
+			
+<td><input type="text" name="colname" placeholder="Enter the column name"></td>
+		
+</tr>
+
+	
+<tr>
+<td><input type="submit" name="submit" onclick="showApplyAlgo()"></td>
+</tr>
+
+
+</tbody>
+
+</table>
+
+<div>
+
+<table>
+
+<tbody>
+
+<tr>
+			
+		
+<td><label><h1>Download Cleaned File:</h1></label><a href="{{ url_for('get_cleanedfile', filename=filename) }}""><h2>Download</h2></a></td>
+
+</tr>
+		
+<tr>
+<td><label><h3>Sample Data of The Column Selected:</h3></label></td>
+</tr>
+		
+<table>
+
+<tbody>
+{%for x in sampleData%}
+					
+<tr>
+						
+<td>{{x}}</td>
+					
+</tr>
+{%endfor%}
+
+
+
+			
+</tbody>
+		
+</table>
+	
+</tbody>
+
+	
+
+
+
+<div id="showApplyAlgoBtn">
+<button><a href='applyAlorithm?file={{filename}}&column={{colname}}'>Apply Algorithm</a></button>
+		
+	
+</div>
+</div>
+  	
+
+  	
+ 
+ </form>
+
+</body>
+
+</html>

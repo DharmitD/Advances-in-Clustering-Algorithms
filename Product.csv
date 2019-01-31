@@ -1,0 +1,179 @@
+Row number,Product ID,Product Name,Product_Catlog,Price
+1,1,Repressitol,9,
+2,2,Ritalout,10,35.48
+3,3,Comanapracil,10,475.37
+4,4,Serum 114,8,303.8
+5,5,Hypnocil,10,499.13
+6,6,Substance D,4,126.7
+7,7,Hydronium Bromide,4,89.58
+8,8,,1,201.03
+9,9,Digitalin,11,5.61
+10,10,Stim pack,7,268.9
+11,11,Damascus Rose,5,459.14
+12,12,Nepenthe,6,365.7
+13,13,Blaccine,6,495.19
+14,14,Teamocil,8,398.85
+15,15,Metazine,8,460.39
+16,16,Chamalla extract,2,312.36
+17,17,Doloxan,3,119.61
+18,18,Morpha,1,379.03
+19,19,Serisone,8,422.03
+20,20,Bittamucin,2,495.99
+21,21,Plasmids,2,92.41
+22,22,Pylene-50,5,297.24
+23,23,Shinten,8,476.55
+24,24,Soma,8,150.64
+25,25,Contrari,2,239.23
+26,26,Quietus,10,251.11
+27,27,Selenine,4,165.14
+28,28,Tiberium,3,484.34
+29,29,Relaxabrex,3,444.11
+30,30,Space Mead,9,31.36
+31,31,Carabonal,4,52.05
+32,32,Estus,15,49.96
+33,33,Placiden,5,158.28
+34,34,Zombrex,6,205.96
+35,35,PX-41 Antidote,5,105.86
+36,36,Ambrosia,2,18.49
+37,37,Neuropozyne,1,236.26
+38,38,Dried Frog Pills,4,30.95
+39,39,Hydromel,7,483.44
+40,40,Stim pack,6,384.42
+41,41,Senzu Bean,3,258.09
+42,42,Turbolax,8,365.29
+43,43,Semuta,3,399.31
+44,44,"Chiquitolina, pastillas de",3,180.56
+45,45,Prozium,9,6.55
+46,46,Tunivor's Nectar,9,466.82
+47,47,Cordrazine,1,463.85
+48,48,Celestial Wine,10,4.13
+49,49,Jet Antidote,1,161.84
+50,50,Med-X,10,250.59
+51,51,RadAway,5,289.21
+52,52,Rad-X,7,1.6
+53,53,Stim-pak,8,242.92
+54,54,Hydra,1,366.79
+55,55,Nyquil Cold,6,426.4
+56,56,Ether,1,338.04
+57,57,Phoenix Down,7,287.72
+58,58,Byphodine,8,269.91
+59,59,Isoprovalyn,5,101.35
+60,60,Pasceline D,10,294.86
+61,61,Lot 6,3,354.31
+62,62,Paracetamoxyfrusebendroneomycin,9,82.31
+63,63,Imobatine,9,363.08
+64,64,Biofoam,1,272.63
+65,65,Skele-gro,5,102.86
+66,66,Dittany,10,161.16
+67,67,Formula 977,6,236.44
+68,68,Tribonin,8,232
+69,69,Catana,3,19.29
+70,70,Nectar,6,285.26
+71,71,Sopor slime,6,136.31
+72,72,Viopril,3,246.21
+73,73,Hydroxl,4,334.38
+74,74,As?a Aranion,3,107.32
+75,75,Flora-Flor,1,355.73
+76,76,Kallocain,4,397.91
+77,77,Soft Green Echo Eyedrop Antidote,10,315.66
+78,78,Alprazaline,6,315.56
+79,79,Quinium,7,290.45
+80,80,Sustengo,21,284.34
+81,81,E-Z Doze It Sleeping Pills,9,294.8
+82,82,Qualex,5,328.95
+83,83,Adara's Rose,7,301.15
+84,84,Coma White,3,304.46
+85,85,Medi-Gel,9,223.04
+86,86,Interfectum,4,364.23
+87,87,Panexa,2,87.1
+88,88,Dioxnyl,1,358.54
+89,89,Nexus,9,135.76
+90,90,JJ-180,8,210.16
+91,91,Mem,4,389.52
+92,92,Monomate,5,16.71
+93,93,Procrastin-X,4,397.22
+94,94,DC2,10,433.58
+95,95,Varatril,10,331.9
+96,96,Batika Indica,7,189.35
+97,97,Miracurall,8,39.42
+98,98,Mephisto,10,289.43
+99,99,Zydrate,10,35.69
+100,100,Daylight,8,293.16
+101,101,Adravil,3,374.13
+102,102,Aqua Cure,8,447.21
+103,103,Safsprin,9,378.74
+104,104,Uspirim,10,15.78
+105,105,Valifin,4,478.96
+106,106,Sym-Bac,10,27.24
+107,107,Trichloromethylene,1,188.54
+108,108,ALZ-112,8,66.04
+109,109,Fukitol,1,151.02
+110,110,Anabiotics,7,102.2
+111,111,Hibernol,10,491.63
+112,112,Jamitol,2,123.23
+113,113,Triopenin,8,178.04
+114,114,Ephemerol,5,28.84
+115,115,Cloveritol,5,192.21
+116,116,Plomox,1,249.12
+117,117,Prexilin,10,289.04
+118,118,Money,9,290.69
+119,119,Telol,3,377.67
+120,120,Neodextraline solution,10,17.65
+121,121,Retinax 5,10,28.61
+122,122,?,3,231.3
+123,123,Masiform D,4,369.3
+124,124,Hyronalin,7,382.49
+125,125,Tri-Ox,9,69.52
+126,,Inaprovaline,10,464.23
+127,127,Felicium,9,103.75
+128,128,Bio-mimetic gel,8,432.51
+129,129,Bacta,9,131.91
+130,130,Kolto,13,388.43
+131,131,Ryll,9,372.73
+132,132,Cryostim,2,144.49
+133,133,Tretonin,2,301.75
+134,134,,8,312.37
+135,135,Gels,10,123.36
+136,136,Morphling,1,225.7
+137,137,Kalocin,1,4.94
+138,138,Athsat,8,105.8
+139,139,Caring,3,158.78
+140,140,Elyon's Water,6,225.3
+141,141,Dypraxa,4,35.51
+142,142,Progenitorivox,6,271.09
+143,143,Gambutrol,10,310.43
+144,144,Dragon Sand,1,350.54
+145,145,Phalanxifor,7,133.52
+146,146,Provasic,5,290.03
+147,147,Counteragent,5,322.15
+148,148,Nine Flower Jade Dew Pill,7,397.28
+149,149,Krayoxx,3,207.83
+150,150,,10,330.7
+151,151,Miseth,1,224.27
+152,152,Oret,7,465.71
+153,153,Moly,2,124.87
+154,154,Iocane powder,2,
+155,155,Flintstones Chewable Morphine,5,170.49
+156,156,Jammitin,1,478.35
+157,157,Nappien,10,421.51
+158,158,Focusyn,6,315.84
+159,159,Lithium dibromide,3,367.6
+160,160,Charlanta,4,453.28
+161,161,Flu Buddy,7,369.27
+162,162,Starshade,11,194.36
+163,,Nomolestol,6,312.64
+164,164,Provolanaproxalidamine C,3,301.27
+165,165,Hourai Elixir,2,183.14
+166,166,Cancer dust,2,451.45
+167,167,Stabilliser,3,16.28
+168,168,Panacea,9,105.37
+169,169,?,2,289.84
+170,170,Lethe,8,227.97
+171,171,Axelavier,8,301.72
+172,172,Fast-penta,8,108.05
+173,173,Anti-Ague,1,
+174,174,Dylar,3,428.42
+175,175,Phalanx,2,302.35
+176,176,Aquasol,2,259.18
+177,177,Havidol,9,272.14
+178,178,Athelas,4,329.53

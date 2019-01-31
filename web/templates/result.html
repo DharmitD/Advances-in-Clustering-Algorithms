@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		
+		<title></title>
+
+	</head>
+
+	<body>
+                   <body bgcolor="#E6E623">
+
+
+	<div>
+		{%if error_message%}
+			<img src="img/outliers.png" height="500px" width="500px">
+                                               outlier detection
+			</div>
+
+
+			<img src="img/birch.png" height="500px" width="500px">
+			Birch
+			<img src="img/CURE.png" height="500px" width="500px">CURE
+
+		{%endif%}
+		{%if not error_message%}
+			Cant show images for given column
+
+		{%endif%}
+
+			<img src="img/kmode.png" height="500px" width="500px">kmode
+			<img src="img/Roc.png" height="500px" width="500px">Roc
+	
+	</body>
+</html>

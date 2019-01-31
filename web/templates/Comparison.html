@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<body bgcolor="#E6E623">
+
+
+		<title>comparisons</title>
+	</head>
+	<script>		
+		function gettime() {
+			
+			document.getElementById("time").innerHTML="Display Time";
+			}
+
+		function getoutliers() {
+			
+			document.getElementById("outliers").innerHTML="Display yes or no";
+			}
+		function getinputformat() {
+			
+			document.getElementById("inputformat").innerHTML="Display type of input needed";
+			}
+		function getdatatype() {
+			
+			document.getElementById("datatype").innerHTML="Display datatype taken as input";
+			}	
+	</script>
+
+
+	<body>
+		<table>
+		<tr>
+			<button onclick="gettime()">Time </button>
+			<div><p id="time"></p></div>
+		</tr>
+		<tr>
+			<button onclick="getoutliers()">Outliers </button>
+			<div><p id="outliers"></p></div>
+		</tr>
+		<tr>
+			<button onclick="getinputformat()">InputForm </button>
+			<div><p id="inputformat"></p></div>
+		</tr>
+		<tr>
+			<button onclick="getdatatype()">Datatype </button>
+			<div><p id="datatype"></p></div>
+		</tr>
+
+		</table>
+	</body>
+</html>

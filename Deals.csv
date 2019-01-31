@@ -1,0 +1,1001 @@
+Row Number,Future customer,Age,Gender,Payment Method
+1,yes,64,male,credit card
+2,yes,35,male,cheque
+3,yes,25,female,credit card
+4,no,39,female,credit card
+5,yes,39,male,credit card
+6,no,28,female,cheque
+7,yes,21,female,credit card
+8,yes,48,male,credit card
+9,no,70,female,credit card
+10,yes,36,male,check
+11,yes,22,male,credit card
+12,no,53,female,cash
+13,yes,27,male,cash
+14,yes,40,male,credit card
+15,yes,22,male,cash
+16,no,49,female,credit card
+17,no,24,female,cash
+18,yes,45,male,credit card
+19,yes,45,male,credit card
+20,no,66,female,cash
+21,no,82,female,cash
+22,no,35,female,credit card
+23,yes,17,female,credit card
+24,no,52,male,cash
+25,no,49,female,credit card
+26,no,33,female,credit card
+27,yes,40,male,credit card
+28,no,53,female,credit card
+29,no,64,female,credit card
+30,no,42,female,credit card
+31,no,66,male,cash
+32,no,84,female,cash
+33,yes,34,male,cheque
+34,yes,46,male,credit card
+35,no,71,female,credit card
+36,no,68,male,cash
+37,no,18,female,cash
+38,no,49,female,cash
+39,yes,23,female,credit card
+40,yes,38,male,credit card
+41,no,65,female,cash
+42,yes,22,female,credit card
+43,yes,21,male,credit card
+44,no,37,female,credit card
+45,no,70,female,credit card
+46,no,81,male,cash
+47,no,47,female,credit card
+48,no,55,male,cash
+49,yes,42,male,credit card
+50,yes,38,male,credit card
+51,no,60,female,credit card
+52,yes,68,male,credit card
+53,yes,22,male,credit card
+54,no,63,male,cash
+55,no,60,male,cash
+56,yes,25,male,credit card
+57,no,84,male,credit card
+58,yes,53,male,credit card
+59,no,47,female,cheque
+60,no,54,female,cheque
+61,yes,52,male,credit card
+62,yes,25,male,credit card
+63,yes,52,male,credit card
+64,no,47,male,cash
+65,no,47,female,cash
+66,no,33,female,credit card
+67,no,74,male,credit card
+68,yes,35,male,credit card
+69,no,35,female,credit card
+70,no,52,female,cash
+71,yes,20,male,credit card
+72,yes,50,male,credit card
+73,no,38,male,cheque
+74,yes,66,male,credit card
+75,yes,19,male,credit card
+76,yes,42,male,credit card
+77,no,35,female,credit card
+78,no,86,female,credit card
+79,yes,27,female,credit card
+80,yes,34,male,credit card
+81,no,64,female,credit card
+82,yes,63,male,credit card
+83,no,58,female,credit card
+84,yes,63,male,credit card
+85,yes,31,male,credit card
+86,no,36,female,credit card
+87,no,58,female,cash
+88,yes,21,male,cash
+89,yes,27,female,credit card
+90,no,45,female,credit card
+91,yes,51,male,credit card
+92,yes,42,male,credit card
+93,no,67,female,credit card
+94,no,55,female,cash
+95,yes,23,female,credit card
+96,yes,36,male,credit card
+97,no,89,female,cash
+98,no,64,male,cash
+99,yes,72,male,credit card
+100,no,33,female,credit card
+101,no,50,female,credit card
+102,no,71,male,cheque
+103,no,79,male,credit card
+104,no,51,female,cash
+105,no,72,female,cash
+106,no,61,female,cash
+107,no,59,female,credit card
+108,yes,49,male,credit card
+109,no,54,female,cheque
+110,yes,26,male,cash
+111,yes,18,male,cash
+112,no,37,female,cash
+113,yes,40,male,credit card
+114,no,42,female,cash
+115,yes,69,male,credit card
+116,yes,24,male,credit card
+117,no,62,female,cash
+118,yes,39,male,credit card
+119,no,37,female,credit card
+120,yes,22,female,credit card
+121,no,38,male,cash
+122,yes,28,female,credit card
+123,yes,53,male,credit card
+124,yes,36,male,credit card
+125,no,76,female,cheque
+126,no,42,female,credit card
+127,no,65,male,cash
+128,no,65,male,cash
+129,yes,24,male,credit card
+130,no,31,female,cash
+131,no,46,female,cheque
+132,yes,68,male,credit card
+133,no,42,male,cash
+134,no,55,female,credit card
+135,no,54,female,cash
+136,no,81,male,credit card
+137,yes,46,male,credit card
+138,no,63,female,credit card
+139,no,73,male,credit card
+140,yes,17,male,credit card
+141,no,53,female,cash
+142,yes,17,female,credit card
+143,no,91,female,cheque
+144,yes,35,male,credit card
+145,no,80,female,cash
+146,no,35,female,credit card
+147,no,47,female,credit card
+148,no,67,female,credit card
+149,yes,46,male,credit card
+150,no,50,female,credit card
+151,no,50,female,cheque
+152,no,72,female,credit card
+153,no,25,female,cash
+154,no,38,female,credit card
+155,yes,30,male,cash
+156,yes,27,male,credit card
+157,no,32,female,cash
+158,yes,56,male,credit card
+159,yes,29,male,credit card
+160,yes,58,male,credit card
+161,no,37,female,credit card
+162,no,49,male,cash
+163,yes,19,male,credit card
+164,yes,57,male,credit card
+165,yes,27,female,credit card
+166,no,78,female,cash
+167,yes,29,male,credit card
+168,no,59,male,cash
+169,yes,62,male,credit card
+170,no,57,female,credit card
+171,yes,29,female,credit card
+172,yes,28,female,credit card
+173,yes,51,male,credit card
+174,yes,45,male,credit card
+175,no,85,female,cash
+176,no,51,female,cash
+177,yes,34,male,credit card
+178,no,66,female,cash
+179,yes,30,male,credit card
+180,no,89,female,cash
+181,no,33,female,credit card
+182,no,17,female,cash
+183,no,50,female,credit card
+184,no,42,male,cheque
+185,yes,34,male,credit card
+186,no,55,female,cash
+187,no,73,female,cash
+188,yes,59,male,credit card
+189,no,47,male,cash
+190,no,78,female,cash
+191,no,69,female,credit card
+192,no,38,male,cash
+193,yes,17,female,credit card
+194,yes,22,male,credit card
+195,no,52,female,cheque
+196,yes,30,female,credit card
+197,no,36,male,cheque
+198,no,60,female,cash
+199,no,23,female,cash
+200,yes,40,male,credit card
+201,yes,27,female,credit card
+202,no,52,female,credit card
+203,no,75,male,credit card
+204,yes,40,male,credit card
+205,yes,30,male,credit card
+206,no,42,male,cash
+207,no,43,female,cash
+208,no,61,male,cash
+209,yes,56,male,credit card
+210,no,51,female,credit card
+211,yes,37,male,credit card
+212,yes,17,male,cheque
+213,yes,30,female,credit card
+214,no,35,female,cash
+215,yes,25,male,cash
+216,yes,26,male,credit card
+217,no,33,female,credit card
+218,no,43,female,credit card
+219,yes,21,male,cash
+220,yes,29,male,credit card
+221,yes,34,male,cash
+222,no,33,female,credit card
+223,yes,17,male,credit card
+224,no,79,female,credit card
+225,no,79,male,credit card
+226,yes,52,male,credit card
+227,no,62,female,cheque
+228,yes,30,female,credit card
+229,no,35,female,credit card
+230,yes,31,male,credit card
+231,no,47,female,cash
+232,yes,35,male,credit card
+233,yes,61,male,credit card
+234,yes,62,male,credit card
+235,no,55,female,credit card
+236,no,48,male,cheque
+237,no,89,male,cash
+238,no,33,female,credit card
+239,no,50,female,credit card
+240,no,63,male,cheque
+241,no,64,female,credit card
+242,no,74,male,credit card
+243,yes,33,male,credit card
+244,no,55,male,cheque
+245,no,81,male,credit card
+246,no,81,female,credit card
+247,no,50,female,cash
+248,no,53,male,cash
+249,no,56,male,cheque
+250,no,50,female,credit card
+251,no,38,female,credit card
+252,yes,71,male,credit card
+253,yes,18,female,credit card
+254,yes,27,female,credit card
+255,no,27,female,cheque
+256,no,86,female,credit card
+257,no,82,male,cash
+258,yes,24,male,cash
+259,yes,29,male,credit card
+260,yes,45,male,credit card
+261,yes,35,male,credit card
+262,yes,18,female,credit card
+263,no,90,male,credit card
+264,yes,51,male,credit card
+265,yes,27,male,cash
+266,yes,24,female,credit card
+267,yes,28,male,cash
+268,no,43,female,cheque
+269,yes,21,female,credit card
+270,no,75,female,credit card
+271,no,51,female,credit card
+272,yes,39,male,credit card
+273,yes,46,male,credit card
+274,no,34,female,credit card
+275,yes,40,male,credit card
+276,no,38,female,cash
+277,yes,45,male,credit card
+278,no,48,female,cash
+279,yes,55,male,credit card
+280,no,17,female,cheque
+281,yes,68,male,credit card
+282,yes,28,male,credit card
+283,yes,26,male,credit card
+284,no,73,female,cash
+285,no,54,female,cheque
+286,yes,70,male,credit card
+287,no,58,female,cash
+288,yes,40,male,credit card
+289,no,63,female,credit card
+290,no,75,female,cash
+291,no,39,female,credit card
+292,yes,31,male,cash
+293,no,90,male,credit card
+294,yes,28,male,credit card
+295,yes,43,male,credit card
+296,yes,34,male,credit card
+297,yes,56,male,credit card
+298,yes,40,male,credit card
+299,no,39,female,credit card
+300,no,40,female,cash
+301,no,39,female,credit card
+302,no,36,female,credit card
+303,no,34,female,credit card
+304,no,86,female,credit card
+305,no,52,male,cash
+306,yes,20,male,credit card
+307,yes,46,male,credit card
+308,no,42,male,cash
+309,yes,54,male,credit card
+310,yes,46,male,credit card
+311,no,76,female,credit card
+312,yes,20,female,credit card
+313,yes,51,male,credit card
+314,no,54,male,cash
+315,no,65,female,cheque
+316,no,55,female,credit card
+317,yes,17,male,cash
+318,yes,18,female,credit card
+319,yes,21,female,credit card
+320,no,64,female,cash
+321,yes,71,male,credit card
+322,no,43,male,cash
+323,no,18,female,cheque
+324,no,39,female,credit card
+325,yes,26,male,cash
+326,yes,17,female,credit card
+327,no,77,female,credit card
+328,no,45,female,credit card
+329,no,90,male,credit card
+330,no,55,male,cash
+331,no,37,female,credit card
+332,yes,30,female,credit card
+333,yes,41,male,credit card
+334,no,46,male,cash
+335,yes,48,male,credit card
+336,yes,34,male,credit card
+337,no,52,male,cash
+338,yes,18,female,credit card
+339,no,46,female,credit card
+340,yes,53,male,credit card
+341,yes,64,male,credit card
+342,yes,30,female,credit card
+343,no,52,female,credit card
+344,no,75,female,cash
+345,yes,65,male,credit card
+346,yes,34,male,credit card
+347,yes,27,male,credit card
+348,yes,42,male,credit card
+349,yes,33,male,credit card
+350,yes,24,male,credit card
+351,no,49,female,credit card
+352,no,76,female,credit card
+353,yes,41,male,credit card
+354,yes,71,male,credit card
+355,yes,43,male,credit card
+356,no,44,female,cash
+357,yes,20,female,credit card
+358,yes,18,male,credit card
+359,no,53,male,cash
+360,yes,46,male,credit card
+361,no,82,female,credit card
+362,yes,23,female,credit card
+363,yes,19,male,cheque
+364,no,68,male,cash
+365,yes,42,male,credit card
+366,yes,39,male,credit card
+367,no,73,male,cheque
+368,yes,50,male,credit card
+369,yes,22,male,cash
+370,yes,20,male,credit card
+371,no,47,male,cheque
+372,no,40,female,credit card
+373,yes,23,male,credit card
+374,yes,21,female,credit card
+375,yes,64,male,credit card
+376,no,39,male,cash
+377,no,80,male,credit card
+378,no,38,female,cash
+379,no,47,female,credit card
+380,no,85,male,cash
+381,yes,26,male,cheque
+382,no,69,female,credit card
+383,yes,18,male,credit card
+384,yes,18,male,credit card
+385,no,40,female,credit card
+386,no,90,male,credit card
+387,no,22,female,cash
+388,no,36,female,cash
+389,yes,57,male,credit card
+390,no,51,female,credit card
+391,no,63,male,cash
+392,yes,22,male,cash
+393,no,33,female,cash
+394,yes,24,male,credit card
+395,no,44,male,cash
+396,yes,55,male,credit card
+397,yes,60,male,credit card
+398,yes,21,female,credit card
+399,no,56,female,credit card
+400,yes,51,male,credit card
+401,no,33,female,cash
+402,no,56,male,cash
+403,yes,61,male,credit card
+404,no,91,male,credit card
+405,no,44,female,credit card
+406,no,54,female,credit card
+407,no,55,male,cash
+408,yes,20,male,cash
+409,yes,41,male,credit card
+410,yes,30,male,credit card
+411,yes,22,male,cheque
+412,yes,17,female,credit card
+413,yes,66,male,credit card
+414,no,74,female,credit card
+415,no,49,female,credit card
+416,no,43,male,cash
+417,no,75,male,cash
+418,no,52,male,cash
+419,no,76,male,credit card
+420,no,80,female,credit card
+421,no,41,male,cash
+422,no,65,male,cash
+423,no,51,female,credit card
+424,yes,28,female,credit card
+425,no,76,male,credit card
+426,yes,58,male,credit card
+427,yes,53,male,credit card
+428,yes,28,female,credit card
+429,yes,19,female,credit card
+430,yes,36,male,credit card
+431,no,69,male,cash
+432,yes,31,male,credit card
+433,no,78,male,credit card
+434,yes,46,male,credit card
+435,yes,26,male,credit card
+436,no,50,female,cash
+437,yes,21,female,credit card
+438,yes,56,male,credit card
+439,no,76,male,credit card
+440,no,39,female,cash
+441,yes,34,male,credit card
+442,no,48,female,credit card
+443,yes,67,male,credit card
+444,no,43,female,credit card
+445,yes,24,male,credit card
+446,no,58,male,cash
+447,no,34,female,credit card
+448,no,67,female,credit card
+449,yes,18,male,credit card
+450,yes,61,male,credit card
+451,yes,49,male,credit card
+452,yes,54,male,credit card
+453,yes,37,male,credit card
+454,no,43,male,cash
+455,no,52,male,cheque
+456,no,51,female,credit card
+457,no,62,female,credit card
+458,no,51,male,cash
+459,no,66,female,credit card
+460,no,54,female,credit card
+461,no,70,male,cash
+462,no,44,female,credit card
+463,no,70,female,credit card
+464,yes,48,male,credit card
+465,no,59,female,credit card
+466,yes,54,male,credit card
+467,yes,18,female,credit card
+468,yes,19,female,credit card
+469,yes,19,female,credit card
+470,yes,36,male,credit card
+471,yes,27,male,cheque
+472,yes,18,female,credit card
+473,no,58,male,cash
+474,yes,18,female,credit card
+475,no,36,female,credit card
+476,yes,47,male,credit card
+477,yes,52,male,credit card
+478,no,56,male,cash
+479,yes,35,male,credit card
+480,yes,29,female,credit card
+481,yes,32,male,credit card
+482,no,72,male,cash
+483,yes,71,male,credit card
+484,yes,49,male,credit card
+485,no,77,male,credit card
+486,yes,21,male,cash
+487,no,29,female,cash
+488,no,47,female,credit card
+489,yes,19,female,credit card
+490,no,63,female,cheque
+491,yes,24,male,credit card
+492,no,66,female,credit card
+493,yes,23,male,credit card
+494,no,45,female,credit card
+495,yes,30,male,credit card
+496,no,72,female,cash
+497,no,79,male,cash
+498,yes,46,male,credit card
+499,no,69,female,cash
+500,no,55,female,cheque
+501,yes,27,female,credit card
+502,no,25,female,cash
+503,no,38,female,credit card
+504,no,39,female,credit card
+505,no,76,male,credit card
+506,yes,34,male,cash
+507,no,52,female,cash
+508,no,57,female,credit card
+509,yes,23,female,credit card
+510,no,71,female,credit card
+511,yes,58,male,credit card
+512,yes,17,female,credit card
+513,no,47,female,cash
+514,no,41,male,cash
+515,yes,59,male,credit card
+516,yes,19,male,credit card
+517,yes,18,female,credit card
+518,yes,53,male,credit card
+519,yes,44,male,credit card
+520,yes,33,male,credit card
+521,yes,28,male,cash
+522,no,78,male,credit card
+523,no,30,female,cash
+524,yes,51,male,credit card
+525,no,39,female,credit card
+526,no,80,female,credit card
+527,yes,40,male,credit card
+528,no,53,female,cash
+529,yes,28,male,credit card
+530,no,87,female,credit card
+531,no,36,female,credit card
+532,yes,20,female,credit card
+533,no,37,male,cash
+534,no,55,male,cheque
+535,no,72,male,cash
+536,no,55,female,credit card
+537,no,36,male,cash
+538,yes,34,male,credit card
+539,yes,41,male,credit card
+540,yes,17,female,credit card
+541,yes,30,male,credit card
+542,yes,17,male,credit card
+543,no,83,female,credit card
+544,no,46,female,cheque
+545,no,59,female,credit card
+546,yes,18,male,cash
+547,yes,28,male,credit card
+548,yes,26,male,cash
+549,no,33,female,credit card
+550,yes,21,male,credit card
+551,no,55,female,cash
+552,no,68,male,cash
+553,yes,29,female,credit card
+554,yes,32,male,credit card
+555,no,57,male,cash
+556,no,63,female,credit card
+557,no,47,female,cash
+558,no,31,female,credit card
+559,no,27,female,cash
+560,no,18,female,cash
+561,no,51,female,credit card
+562,yes,17,male,credit card
+563,yes,48,male,credit card
+564,yes,25,male,credit card
+565,no,42,female,cash
+566,no,42,female,credit card
+567,yes,49,male,credit card
+568,no,47,male,cash
+569,no,45,female,cash
+570,no,49,female,credit card
+571,yes,34,male,credit card
+572,no,39,female,credit card
+573,yes,29,female,credit card
+574,no,32,female,cash
+575,yes,25,male,cash
+576,yes,21,male,credit card
+577,no,57,female,cash
+578,no,64,female,credit card
+579,no,51,female,cash
+580,yes,24,male,credit card
+581,yes,60,male,credit card
+582,yes,35,male,credit card
+583,yes,54,male,credit card
+584,no,55,female,cash
+585,no,40,male,cash
+586,no,43,male,cash
+587,no,91,male,credit card
+588,no,40,female,cash
+589,no,51,male,cash
+590,no,46,female,credit card
+591,no,76,female,cash
+592,no,54,male,cash
+593,yes,17,female,credit card
+594,no,21,female,cheque
+595,yes,18,female,credit card
+596,yes,20,female,credit card
+597,yes,27,male,cash
+598,yes,28,male,credit card
+599,no,44,female,credit card
+600,yes,21,male,credit card
+601,yes,32,male,cash
+602,no,37,female,cash
+603,yes,18,male,cash
+604,no,89,female,credit card
+605,yes,41,male,credit card
+606,no,72,male,cash
+607,no,29,female,cheque
+608,yes,46,male,credit card
+609,no,61,female,cash
+610,yes,20,male,credit card
+611,yes,45,male,credit card
+612,no,62,female,credit card
+613,yes,51,male,credit card
+614,no,74,female,credit card
+615,yes,48,male,credit card
+616,yes,28,male,cash
+617,no,46,female,credit card
+618,no,32,female,credit card
+619,no,53,female,cash
+620,yes,57,male,credit card
+621,yes,22,male,cash
+622,yes,49,male,credit card
+623,yes,63,male,credit card
+624,no,90,male,credit card
+625,no,57,male,cheque
+626,yes,28,female,credit card
+627,no,17,female,cash
+628,no,50,male,cash
+629,yes,51,male,credit card
+630,no,74,female,credit card
+631,no,73,female,credit card
+632,no,52,male,cash
+633,no,52,female,credit card
+634,yes,19,male,credit card
+635,no,54,male,cash
+636,yes,26,male,credit card
+637,no,25,female,cheque
+638,yes,42,male,credit card
+639,no,78,female,cash
+640,yes,34,male,credit card
+641,yes,19,female,credit card
+642,no,27,female,cash
+643,no,81,male,credit card
+644,no,32,female,cheque
+645,no,70,male,cash
+646,yes,23,female,credit card
+647,yes,17,female,credit card
+648,yes,19,male,cash
+649,no,42,female,credit card
+650,yes,27,female,credit card
+651,no,57,female,credit card
+652,yes,57,male,credit card
+653,no,67,male,cash
+654,no,63,female,cheque
+655,no,40,female,credit card
+656,yes,21,male,cash
+657,no,58,female,credit card
+658,yes,23,male,cash
+659,no,76,male,credit card
+660,no,73,female,cash
+661,no,40,female,cash
+662,yes,33,male,credit card
+663,yes,54,male,credit card
+664,yes,17,female,credit card
+665,no,51,male,cash
+666,no,48,female,credit card
+667,yes,43,male,credit card
+668,yes,36,male,credit card
+669,yes,22,female,credit card
+670,yes,62,male,credit card
+671,yes,43,male,credit card
+672,no,42,female,credit card
+673,yes,22,male,cash
+674,yes,64,male,credit card
+675,yes,34,male,cheque
+676,no,42,female,credit card
+677,no,19,female,cash
+678,yes,36,male,credit card
+679,yes,39,male,credit card
+680,no,83,male,credit card
+681,yes,28,female,credit card
+682,no,68,male,cash
+683,yes,48,male,credit card
+684,no,60,female,credit card
+685,no,76,male,credit card
+686,no,50,female,cheque
+687,yes,21,female,credit card
+688,no,46,female,credit card
+689,no,35,female,credit card
+690,yes,27,male,cheque
+691,yes,39,male,credit card
+692,yes,61,male,credit card
+693,yes,20,female,credit card
+694,yes,22,female,credit card
+695,no,53,female,credit card
+696,yes,20,male,cash
+697,yes,34,male,credit card
+698,yes,52,male,credit card
+699,yes,36,male,credit card
+700,no,52,female,credit card
+701,yes,28,male,credit card
+702,yes,40,male,credit card
+703,yes,32,male,credit card
+704,yes,18,female,credit card
+705,no,22,female,cheque
+706,no,81,male,credit card
+707,no,52,female,cash
+708,no,76,female,credit card
+709,yes,43,male,credit card
+710,yes,23,male,credit card
+711,yes,34,male,credit card
+712,no,38,female,credit card
+713,no,33,female,credit card
+714,no,48,male,cash
+715,no,41,male,cash
+716,no,78,male,credit card
+717,no,51,female,credit card
+718,yes,42,male,credit card
+719,no,72,male,cash
+720,no,20,female,cash
+721,no,69,male,cash
+722,no,37,male,cash
+723,no,45,female,credit card
+724,no,77,female,credit card
+725,no,79,male,credit card
+726,yes,56,male,credit card
+727,yes,44,male,credit card
+728,yes,30,male,cash
+729,no,50,female,cash
+730,no,57,male,cash
+731,yes,42,male,credit card
+732,no,64,female,cash
+733,no,50,female,cash
+734,yes,28,male,cash
+735,no,50,male,cash
+736,no,41,female,credit card
+737,no,64,female,credit card
+738,no,81,female,credit card
+739,no,48,female,cash
+740,no,84,male,credit card
+741,yes,29,male,credit card
+742,yes,26,male,cash
+743,no,42,female,credit card
+744,no,40,female,credit card
+745,no,79,male,credit card
+746,yes,70,male,credit card
+747,no,51,male,cheque
+748,no,24,female,cheque
+749,yes,17,female,credit card
+750,yes,17,male,credit card
+751,yes,18,male,credit card
+752,yes,45,male,credit card
+753,no,51,male,cash
+754,yes,17,male,credit card
+755,no,74,female,credit card
+756,no,35,female,credit card
+757,yes,19,male,cash
+758,yes,24,male,credit card
+759,yes,58,male,credit card
+760,no,45,female,credit card
+761,no,43,female,credit card
+762,no,76,female,cash
+763,no,58,female,cash
+764,yes,33,male,cheque
+765,no,81,male,cash
+766,yes,20,female,credit card
+767,no,52,male,cash
+768,yes,22,male,cash
+769,yes,18,female,credit card
+770,no,65,male,cash
+771,yes,17,female,credit card
+772,yes,29,female,credit card
+773,no,72,female,credit card
+774,no,39,male,cash
+775,yes,33,male,cheque
+776,yes,52,male,credit card
+777,yes,62,male,credit card
+778,yes,17,male,credit card
+779,yes,30,female,credit card
+780,yes,30,female,credit card
+781,no,59,female,cash
+782,no,40,female,cash
+783,yes,26,male,credit card
+784,no,51,female,credit card
+785,yes,59,male,credit card
+786,yes,30,male,credit card
+787,no,54,male,cash
+788,yes,39,male,credit card
+789,yes,37,male,credit card
+790,no,37,female,cheque
+791,no,43,female,cash
+792,no,42,male,cash
+793,yes,36,male,credit card
+794,no,43,male,cash
+795,yes,30,female,credit card
+796,no,38,female,credit card
+797,no,67,female,credit card
+798,yes,18,male,credit card
+799,no,71,male,cash
+800,no,45,male,cheque
+801,no,59,female,credit card
+802,no,39,female,credit card
+803,yes,41,male,credit card
+804,no,70,male,cash
+805,yes,31,male,cash
+806,no,91,male,credit card
+807,yes,59,male,credit card
+808,yes,47,male,credit card
+809,no,56,female,credit card
+810,no,44,male,cash
+811,no,78,male,credit card
+812,no,35,female,credit card
+813,yes,27,male,credit card
+814,no,57,male,cash
+815,yes,21,male,credit card
+816,yes,53,male,credit card
+817,no,90,female,credit card
+818,yes,32,male,credit card
+819,no,41,female,cash
+820,no,47,female,credit card
+821,no,90,male,credit card
+822,no,72,male,cash
+823,no,42,male,cash
+824,no,59,male,cheque
+825,no,29,female,cash
+826,yes,39,male,credit card
+827,no,41,female,cheque
+828,no,28,female,cash
+829,no,72,female,credit card
+830,no,45,female,cheque
+831,yes,26,female,credit card
+832,yes,29,female,credit card
+833,yes,28,female,credit card
+834,yes,21,male,credit card
+835,yes,40,male,credit card
+836,no,85,male,credit card
+837,no,50,female,credit card
+838,yes,21,male,credit card
+839,no,60,female,credit card
+840,no,76,female,cash
+841,no,84,female,credit card
+842,no,49,female,credit card
+843,no,39,female,cash
+844,yes,17,male,credit card
+845,no,54,female,credit card
+846,no,64,male,cash
+847,yes,32,male,cash
+848,yes,35,male,cash
+849,yes,34,male,cash
+850,no,33,female,credit card
+851,yes,22,male,credit card
+852,no,73,female,cheque
+853,yes,39,male,credit card
+854,no,47,female,cash
+855,yes,26,female,credit card
+856,no,67,male,cash
+857,yes,52,male,credit card
+858,yes,23,female,credit card
+859,no,61,female,cash
+860,no,55,female,credit card
+861,no,71,male,cheque
+862,no,42,female,credit card
+863,yes,42,male,credit card
+864,no,69,female,cash
+865,yes,34,male,cash
+866,yes,20,female,credit card
+867,no,86,male,credit card
+868,no,44,male,cheque
+869,no,83,female,cash
+870,yes,25,male,credit card
+871,no,45,male,cash
+872,yes,19,male,credit card
+873,yes,45,male,credit card
+874,no,43,female,credit card
+875,yes,31,male,credit card
+876,no,90,female,cash
+877,yes,20,male,credit card
+878,yes,56,male,credit card
+879,no,61,female,credit card
+880,yes,20,male,credit card
+881,yes,25,female,credit card
+882,no,45,male,cash
+883,no,38,female,credit card
+884,no,37,male,cheque
+885,yes,44,male,credit card
+886,yes,51,male,credit card
+887,yes,27,male,credit card
+888,no,42,female,cash
+889,yes,37,male,credit card
+890,yes,20,male,cash
+891,no,55,female,credit card
+892,yes,64,male,credit card
+893,yes,56,male,credit card
+894,no,66,female,cash
+895,no,69,female,credit card
+896,no,89,male,cash
+897,yes,41,male,credit card
+898,yes,48,male,credit card
+899,yes,38,male,credit card
+900,no,38,male,cash
+901,no,67,male,cash
+902,no,87,male,cheque
+903,yes,29,male,cash
+904,no,51,female,credit card
+905,yes,31,male,credit card
+906,no,34,female,credit card
+907,yes,32,male,credit card
+908,no,26,female,cheque
+909,yes,65,male,credit card
+910,yes,43,male,credit card
+911,no,45,female,credit card
+912,no,57,female,cash
+913,yes,34,male,credit card
+914,yes,18,female,credit card
+915,no,70,female,cash
+916,no,75,female,credit card
+917,no,46,female,credit card
+918,yes,24,male,credit card
+919,yes,52,male,credit card
+920,no,48,female,cash
+921,no,27,female,cash
+922,no,88,male,credit card
+923,yes,26,male,credit card
+924,no,57,male,cash
+925,no,66,female,credit card
+926,yes,49,male,credit card
+927,no,55,female,credit card
+928,no,24,female,cash
+929,no,63,female,cash
+930,no,52,female,credit card
+931,yes,25,male,cash
+932,yes,30,female,credit card
+933,no,63,male,cheque
+934,no,76,female,credit card
+935,no,69,female,cheque
+936,no,43,female,cash
+937,yes,42,male,credit card
+938,yes,51,male,credit card
+939,yes,44,male,credit card
+940,yes,51,male,credit card
+941,yes,30,male,credit card
+942,no,48,male,cheque
+943,yes,28,female,credit card
+944,yes,50,male,credit card
+945,yes,25,male,credit card
+946,no,56,male,cash
+947,yes,17,female,credit card
+948,no,59,female,credit card
+949,no,70,female,cash
+950,no,45,male,cash
+951,no,43,male,cash
+952,yes,50,male,credit card
+953,no,46,male,cash
+954,yes,25,female,credit card
+955,yes,43,male,credit card
+956,yes,29,male,cash
+957,yes,49,male,credit card
+958,no,43,female,cash
+959,yes,35,male,cash
+960,yes,19,male,credit card
+961,no,76,male,cash
+962,no,53,female,credit card
+963,no,64,female,credit card
+964,no,42,female,credit card
+965,yes,53,male,credit card
+966,no,66,female,credit card
+967,no,73,female,cash
+968,yes,31,male,credit card
+969,yes,68,male,credit card
+970,no,38,female,credit card
+971,no,39,female,credit card
+972,yes,23,male,cash
+973,no,52,female,cash
+974,yes,38,male,credit card
+975,no,81,male,cash
+976,yes,20,male,cash
+977,yes,20,female,credit card
+978,yes,40,male,credit card
+979,yes,29,male,cash
+980,no,90,male,cash
+981,no,42,female,credit card
+982,no,80,male,cheque
+983,yes,43,male,credit card
+984,yes,23,male,credit card
+985,yes,29,female,credit card
+986,no,44,female,credit card
+987,no,37,male,cash
+988,yes,26,male,credit card
+989,yes,21,male,credit card
+990,no,80,female,cheque
+991,no,50,male,cash
+992,yes,28,female,credit card
+993,no,82,male,cash
+994,yes,64,male,credit card
+995,yes,19,male,credit card
+996,yes,29,female,credit card
+997,no,84,male,credit card
+998,yes,20,male,credit card
+999,yes,19,male,credit card
+1000,yes,24,female,credit card
