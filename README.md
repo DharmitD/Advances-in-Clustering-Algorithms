@@ -1,1 +1,2 @@
 # flask_app
+Researched and worked on four clustering algorithms: K-modes, ROCK, BIRCH and CURE. Analyzed each of these algorithms, and displayed a comparison between them, through practical implementation. Designed a system, which gives a particular dataset as an input to each of the five algorithms, and the output of each of these algorithms is displayed, showing the user a visual difference between the clusters formed by each of the algorithms on the same dataset. Technologies used: Python, Flask.
